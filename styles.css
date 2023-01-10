@@ -12,6 +12,7 @@ body {
 .card {
     margin: auto;
     background-color: #5727A3;
+    padding:5px;
 }
 
 .card-title {
@@ -20,7 +21,7 @@ body {
 
 .card-text {
     font-style: italic;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .fa-3x {
