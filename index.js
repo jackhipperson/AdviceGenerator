@@ -8,7 +8,6 @@ async function getAdvice() {
     const data = await results.json()
     adviceContentText.innerHTML = '"'+data.slip.advice+'"';
     adviceIdText.innerHTML = "ADVICE #"+data.slip.id;
-    console.log(adviceContentText);
 }
 
 getAdvice()
