@@ -23,7 +23,7 @@ A simple advice generator app built with HTML, CSS, an external API, and Font Aw
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/advice-generator.git
+   git clone https://jackhipperson.github.io/advice-generator.git
    ```
 
 2. Open the `index.html` file in your browser.
